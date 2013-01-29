@@ -1,0 +1,6 @@
+en:
+  Log:
+    PLURALNAME: Logs
+    SINGULARNAME: Log
+  LogAdmin:
+    MENUTITLE: 'Logs Admin'
